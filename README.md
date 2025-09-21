@@ -50,3 +50,8 @@ This repository contains four projects:
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+
+Name - Chamika damith disanayaka
+Student Registration Number - 2301671029
+Email Address - chamikadamith9@gmail.com
