@@ -52,6 +52,6 @@ This repository contains four projects:
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
 
 
-Name - Chamika damith disanayaka
-Student Registration Number - 2301671029
+Name - Chamika damith disanayaka<br>
+Student Registration Number - 2301671029<br>
 Email Address - chamikadamith9@gmail.com
