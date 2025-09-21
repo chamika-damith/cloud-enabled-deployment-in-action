@@ -52,6 +52,9 @@ This repository contains four projects:
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
 
 
+🎥 Demo<br>
+📹 Live Demo: [View Demo Video](https://drive.google.com/file/d/1NKYy5l5XHNF3-pUdTjSGWoa11_ke_9kU/view?usp=sharing)
+
 Name - Chamika damith disanayaka<br>
 Student Registration Number - 2301671029<br>
 Email Address - chamikadamith9@gmail.com
